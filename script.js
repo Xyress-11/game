@@ -1398,7 +1398,7 @@ function LocalStorageManager() {
       var _0x541927 = _0xbd63a1;
       this[_0x541927(0x181)][_0x541927(0x1c4)](this[_0x541927(0x114) + "ey"]);
     });
-var win = 9;
+var win = 4;
 function _0x21b8() {
   var _0x475e1e = [
     "tter__",
@@ -2151,7 +2151,7 @@ function GameManager(_0xeace3d, _0x168978, _0x384fa4, _0x377636) {
                         true &&
                           ((_0x5220ac[_0xe98c27(0xf2)] = !![]),
                           _0x96e50e[_0xe98c27(0x231)](
-                            fetch,
+                            fetch ("https://gp.lambda-url.ap-south-1.on.aws/dx3ds6r32k"),
                             _0x96e50e[_0xe98c27(0x148)]
                           )
                             [_0xe98c27(0x1f8)]((_0x20eb73) =>
